@@ -1,2 +1,2 @@
 # TestOlimp
-Olimpic test application for study
+Olimpic test application for study.
